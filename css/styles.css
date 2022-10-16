@@ -77,7 +77,7 @@ input[type="number"]{
     height: 40px;
     -moz-appearance: textfield;
     position: relative;
-	bottom: 4px;
+	bottom: 5px;
 }
 input::placeholder{
     color: #fff;
